@@ -1,4 +1,3 @@
-# English: #
 # Virtual Sticky Notes for Linux — v1.4
 
 A desktop application built with Python and PySide6 for creating persistent virtual sticky notes.
