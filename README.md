@@ -77,7 +77,7 @@ On some Wayland desktop environments, the compositor may limit the option to kee
 
 <hr>
 
-# Español:#
+# Español: #
 
 # Virtual Sticky Notes para Linux — v1.4
 
