@@ -1,3 +1,4 @@
+# English: #
 # Virtual Sticky Notes for Linux — v1.4
 
 A desktop application built with Python and PySide6 for creating persistent virtual sticky notes.
@@ -73,6 +74,10 @@ The selected language is stored through the local Qt settings for `SantiApps/vir
 ## Wayland note
 
 On some Wayland desktop environments, the compositor may limit the option to keep a window above all others. This behavior is usually more consistent on X11.
+
+<hr>
+
+# Español:#
 
 # Virtual Sticky Notes para Linux — v1.4
 
