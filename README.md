@@ -1,3 +1,17 @@
+<p align="center">
+  <img
+    src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/stickynote-01.png?raw=true"
+    alt="Santiago Gutierrez profile banner"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/stickynote-02.png?raw=true"
+    alt="Santiago Gutierrez profile banner"
+  />
+</p>
+
 # Virtual Sticky Notes for Linux — v1.4
 
 A desktop application built with Python and PySide6 for creating persistent virtual sticky notes.
