@@ -1,14 +1,14 @@
 <p align="center">
   <img
     src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/stickynote-01.png?raw=true"
-    alt="Santiago Gutierrez profile banner"
+    alt="Sticky note Banner Default"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/stickynote-02.png?raw=true"
-    alt="Santiago Gutierrez profile banner"
+    alt="Sticky note Banner CRS"
   />
 </p>
 
